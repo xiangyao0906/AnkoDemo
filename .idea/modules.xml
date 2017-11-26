@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AnkoDemo.iml" filepath="$PROJECT_DIR$/AnkoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AnkoDemo.iml" filepath="$PROJECT_DIR$/.idea/AnkoDemo.iml" />
+      <module fileurl="file://E:\AnkoDemo\AnkoDemo.iml" filepath="E:\AnkoDemo\AnkoDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
